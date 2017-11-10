@@ -49,4 +49,4 @@ Then type <c-y>,
 ```Bash
 :TagbarToggle
 ```
-TagbarToggle
+
