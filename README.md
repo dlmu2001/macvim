@@ -40,3 +40,13 @@ Then type <c-y>,
 ```
 
 # 4.安装ctags ,cscope
+
+# 5.安装tagbar
+
+* 安装：git clone https://github.com/majutsushi/tagbar.git
+
+* 使用
+```Bash
+:TagbarToggle
+```
+TagbarToggle
