@@ -49,4 +49,4 @@ Then type <c-y>,
 ```Bash
 :TagbarToggle
 ```
-
+# 6.安装supertab
