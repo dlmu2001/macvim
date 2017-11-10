@@ -38,3 +38,5 @@ Then type <c-y>,
 
 
 ```
+
+# 4.安装ctags ,cscope
