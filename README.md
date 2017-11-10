@@ -1,9 +1,9 @@
 # macvim
 Mac下的vim配置
 
-# 下载pathogen管理插件
+# 1.下载pathogen管理插件
 
-# 安装NERDTree插件
+# 2. 安装NERDTree插件
 
 ## 使用
 
@@ -24,4 +24,17 @@ u 打开上层目录
 m 显示文件系统菜单（添加、删除、移动操作）
 ? 帮助
 q 关闭
+```
+
+# 3. emmet-vim
+
+* 安装：git clone https://github.com/mattn/emmet-vim.git
+
+* 使用
+
+```Bash
+html:5_
+Then type <c-y>,
+
+
 ```
