@@ -66,3 +66,19 @@ Then type <c-y>,
 # 10. NERD commenter
 
 [NERD commenter](https://github.com/scrooloose/nerdcommenter)
+
+# 11. YouCompleteMe
+
+* 安装
+
+利用pathogen
+```Bash
+git clone https://github.com/Valloric/YouCompleteMe.git
+
+cd ~/.vim/bundle/YouCompleteMe
+
+git submodule update --init --recursive
+
+~/install.py --all
+
+```
