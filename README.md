@@ -58,3 +58,7 @@ Then type <c-y>,
 # 8. javascript_libraies_syntax
 
 [javascript_libraries_syntax](https://github.com/othree/javascript-libraries-syntax.vim)
+
+# 9. ctrlp
+
+[ctrlp](https://github.com/ctrlpvim/ctrlp.vim)
