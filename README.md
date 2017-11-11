@@ -54,3 +54,7 @@ Then type <c-y>,
 # 7. syntastic
 
 [syntastic](https://github.com/vim-syntastic/syntastic#faqstyle)
+
+# 8. javascript_libraies_syntax
+
+[javascript_libraries_syntax](https://github.com/othree/javascript-libraries-syntax.vim)
