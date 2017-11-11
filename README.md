@@ -62,3 +62,7 @@ Then type <c-y>,
 # 9. ctrlp
 
 [ctrlp](https://github.com/ctrlpvim/ctrlp.vim)
+
+# 10. NERD commenter
+
+[NERD commenter](https://github.com/scrooloose/nerdcommenter)
