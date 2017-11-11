@@ -50,3 +50,7 @@ Then type <c-y>,
 :TagbarToggle
 ```
 # 6.安装supertab
+
+# 7. syntastic
+
+[syntastic](https://github.com/vim-syntastic/syntastic#faqstyle)
