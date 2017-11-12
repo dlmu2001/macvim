@@ -83,6 +83,10 @@ git submodule update --init --recursive
 
 ```
 
-# 12 .VimSurround
+# 12. VimSurround
 
 [VimSurround](https://github.com/tpope/vim-surround)
+
+# 13. vim-closetag
+
+[vim-closetag](https://github.com/alvan/vim-closetag)
