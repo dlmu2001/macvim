@@ -90,3 +90,7 @@ git submodule update --init --recursive
 # 13. vim-closetag
 
 [vim-closetag](https://github.com/alvan/vim-closetag)
+
+# 14. minibufexpl
+
+[minibufexpl](https://github.com/fholgado/minibufexpl.vim)
