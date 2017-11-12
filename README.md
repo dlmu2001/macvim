@@ -94,3 +94,7 @@ git submodule update --init --recursive
 # 14. minibufexpl
 
 [minibufexpl](https://github.com/fholgado/minibufexpl.vim)
+
+# 15. bufexplorer
+
+[bufexplorer](https://github.com/jlanzarotta/bufexplorer)
