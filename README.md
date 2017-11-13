@@ -98,3 +98,7 @@ git submodule update --init --recursive
 # 15. bufexplorer
 
 [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
+
+# 16. lookupfile
+
+[lookupfile](https://github.com/vim-scripts/lookupfile)
