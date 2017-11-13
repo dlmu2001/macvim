@@ -102,3 +102,5 @@ git submodule update --init --recursive
 # 16. lookupfile
 
 [lookupfile](https://github.com/vim-scripts/lookupfile)
+
+[usage](http://easwy.com/blog/archives/advanced-vim-skills-lookupfile-plugin/)
