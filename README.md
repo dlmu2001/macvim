@@ -116,6 +116,5 @@ git submodule update --init --recursive
 --ignore-file=is:cscope.out
 --ignore-file=is:filelist
 --ignore-file=is:tags
---ignore-dir=signature
-~                         
+--ignore-dir=signature                      
 ```
