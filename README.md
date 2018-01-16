@@ -118,3 +118,7 @@ git submodule update --init --recursive
 --ignore-file=is:tags
 --ignore-dir=signature                      
 ```
+
+# 18.ultisnips
+
+[ultisnips](https://github.com/SirVer/ultisnips)
