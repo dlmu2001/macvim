@@ -108,3 +108,14 @@ git submodule update --init --recursive
 # 17. ack
 
 [ack](https://github.com/mileszs/ack.vim)
+
+~/.ackrc
+
+```Bash
+--ignore-file=is:filenametags
+--ignore-file=is:cscope.out
+--ignore-file=is:filelist
+--ignore-file=is:tags
+--ignore-dir=signature
+~                         
+```
